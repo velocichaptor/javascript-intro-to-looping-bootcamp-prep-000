@@ -11,10 +11,6 @@ function forLoop(array){
   return array
 }
 
-var dummy = []
-
-forLoop(dummy)
-
 function whileLoop(number){
   while(number > 0){
     console.log(number)
